@@ -1,6 +1,6 @@
 # Meet App
 
-Meet App helps user find, book, and confirm attendance to events in the user's city or in a location of their choice. User will be able to 
+Meet App helps user find, book, and confirm attendance to events in the user's city or in a location of their choice. User will be able to: 
 1) filter Events by City,
 2) show/hide the details of an event,
 3) specify the number of events to be displayed,
